@@ -1,4 +1,0 @@
-$ cat .gitattributes
-*.rb linguist-language=sql
-
-* text=auto
