@@ -1,4 +1,4 @@
 $ cat .gitattributes
-*.rb linguist-language=Scala
+*.rb linguist-language=sql
 
 * text=auto
